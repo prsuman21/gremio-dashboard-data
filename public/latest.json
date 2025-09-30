@@ -1,1 +1,138 @@
-{}
+{
+  "generated_at": "2025-09-30T20:39:56.471156Z",
+  "sources": {
+    "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
+    "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
+    "ufmg_sulamericana": "https://www.mat.ufmg.br/futebol/classificacao-para-sulamericana_seriea/",
+    "ufmg_campeao": "https://www.mat.ufmg.br/futebol/campeao_seriea/",
+    "ge_agenda": "https://ge.globo.com/rs/futebol/times/gremio/agenda-de-jogos-do-gremio/",
+    "espn_calendario": "https://www.espn.com.br/futebol/time/calendario/_/id/6273/gremio",
+    "cbf_tabela": "https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2025?doc=Tabela+Detalhada",
+    "ge_lesionados_exemplo": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/09/30/gremio-chega-a-13-jogadores-fora-por-problemas-fisicos-meio-time-so-volta-em-2026.ghtml"
+  },
+  "data": {
+    "proximos_jogos": [],
+    "ultimos_jogos": [],
+    "tabela": {
+      "posicao": null,
+      "pontos": 42,
+      "j": null,
+      "v": null,
+      "e": null,
+      "d": null,
+      "gp": null,
+      "gc": null,
+      "sg": null,
+      "aproveitamento": null
+    },
+    "suspensos": [],
+    "lesionados": [
+      {
+        "nome": "DM cheio! Podcast ge Grêmio repassa lista de atletas lesionados",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "A bruxa anda solta para os lados da Arena. O Grêmio chegou a 13 jogadores entregues ao Departamento de Ciência, Saúde e Performance nos últimos dias. Cinco deles estão fora temporada . A lista de quem só volta em 2026 deve ser completa com Willian, que fraturou osso do pé direito na último domingo , mas não passará por cirurgia e tem recuperação de seis a oito semanas.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Quem está mais próximo de voltar é o lateral-direito João Lucas , fora desde 2 de agosto por conta de lesão muscular na coxa esquerda sofrida na derrota para o Fluminense , no Maracanã.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "A comissão técnica pretende utilizar a pausa da Data Fifa, entre 6 e 14 de outubro, para terminar a recuperação de nomes como Carlos Vinicius e Tiago Volpi . Cuéllar será reavaliado, mas deve ficar fora da viagem. Ele já foi desfalque nos últimos dois jogos em função de desgaste muscular.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Já o meia-atacante contratado no início deste mês fraturou o quinto metatarso (osso externo) do pé direito contra o Vitória e foi substituído no primeiro tempo. A lesão é a mesma sofrida por Neymar em fevereiro de 2018 pelo Paris Saint-Germain . O tempo de recuperação é de seis a oito semanas. No pior cenário, Willian voltaria para as últimas três rodadas do Brasileirão.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "A porteira das lesões graves em 2025 foi aberta por Rodrigo Ely , em abril. O zagueiro rompeu o ligamento cruzamento anterior e lesionou o ligamento colateral medial e o menisco medial do joelho esquerdo.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Braithwaite — Rompeu o tendão de Aquiles da perna esquerda. Fora da temporada.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "João Lucas — Lesão muscular de grau dois no bíceps femoral da coxa esquerda. Volta contra o Santos.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Riquelme — Lesão de grau dois na coxa direita. Volta prevista para outubro.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Rodrigo Ely — Rompeu o ligamento cruzado anterior e lesionou o ligamento colateral medial e o menisco medial. Fora da temporada.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Villasanti — Rompeu o ligamento cruzado anterior, com lesão no menisco lateral do joelho esquerdo. Fora da temporada.",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Escalação do Grêmio: Mano tem novos desfalques e retornos contra o Santos",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Veja a previsão do Grêmio para o retorno de Willian",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Veja previsão de retorno de cada jogador",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "tabelas menu ge tabelas nacionais tabelas nacionais brasileirão série a copa do brasil copa do brasil feminina brasileirão série b brasileirão série c brasileirão série d copa do brasil sub-20 brasileirão sub-17 supercopa rei do brasil brasileirão feminino supercopa feminina brasileirão feminino a2 brasileirão feminino a3 copa sp de futebol jr brasileirão sub-20 brasileirão b sub-20 copa do brasil sub-17 internacionais tabelas internacionais mundial sub-20 libertadores libertadores feminina copa sul-americana champions league premier league copa da liga inglesa copa da inglaterra la liga copa do rei futebol italiano copa da itália bundesliga copa da alemanha futebol francês copa da frança liga europa liga conferência futebol saudita liga dos campeões da ásia copa intercontinental copa do mundo de clubes copa do mundo fem sub-17 eliminatórias - américa do sul eliminatórias - europa eliminatórias - áfrica eliminatórias - ásia eliminatórias - concacaf eliminatórias - oceania eliminatórias - repescagem mundial liga das nações libertadores sub-20 mundial sub-17 sul-americano sub-20 sul-americano sub-17 copa américa feminina copa do mundo feminina sul-americano fem sub-17 copa do mundo fem sub-20 brasil ladies cup copa ouro feminina copa américa eurocopa eliminatórias euro copa africana de nações copa da ásia regionais e estaduais tabelas regionais e estaduais pré-copa do nordeste copa do nordeste copa do nordeste sub-20 copa maria bonita copa verde acreano alagoano copa alagoas amapaense amazonense baiano brasiliense capixaba carioca carioca a2 copa rio catarinense catarinense 2ª divisão cearense gaúcho goiano maranhense mato-grossense mineiro mineiro módulo 2 mineiro 2ª divisão paraense paraibano paranaense paranaense 2ª divisão taça fpf paulista paulista a2 paulista a3 paulista a4 paulista feminino paulista 2ª divisão copa paulista pernambucano pernambucano a2 pernambucano a3 piauiense potiguar rondoniense roraimense sergipano sul-mato-grossense tocantinense rotatividade dos técnicos -- todas as tabelas",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "internacionais tabelas internacionais mundial sub-20 libertadores libertadores feminina copa sul-americana champions league premier league copa da liga inglesa copa da inglaterra la liga copa do rei futebol italiano copa da itália bundesliga copa da alemanha futebol francês copa da frança liga europa liga conferência futebol saudita liga dos campeões da ásia copa intercontinental copa do mundo de clubes copa do mundo fem sub-17 eliminatórias - américa do sul eliminatórias - europa eliminatórias - áfrica eliminatórias - ásia eliminatórias - concacaf eliminatórias - oceania eliminatórias - repescagem mundial liga das nações libertadores sub-20 mundial sub-17 sul-americano sub-20 sul-americano sub-17 copa américa feminina copa do mundo feminina sul-americano fem sub-17 copa do mundo fem sub-20 brasil ladies cup copa ouro feminina copa américa eurocopa eliminatórias euro copa africana de nações copa da ásia",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "copa da liga inglesa",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "na tv menu ge na tv tv globo na tv tv globo globo esporte esporte espetacular segue o jogo verão espetacular sportv na tv sportv página principal programas sportv programas bem, amigos! boleiragem grande círculo hello la redação sportv seleção sportv sportv news tá na área troca de passes programação combate na tv combate assista agora programação assine premiere seu estado na tv seu estado centro-oeste seu estado centro-oeste distrito federal goiás mato grosso mato grosso do sul nordeste seu estado nordeste alagoas bahia ceará maranhão paraíba pernambuco nordeste pernambuco página principal caruaru e região petrolina e região piauí rio grande do norte sergipe norte seu estado norte acre amapá amazonas pará norte pará página principal santarém e região rondônia roraima tocantins sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região sul seu estado sul paraná rio grande do sul santa catarina princípios editoriais",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "seu estado na tv seu estado centro-oeste seu estado centro-oeste distrito federal goiás mato grosso mato grosso do sul nordeste seu estado nordeste alagoas bahia ceará maranhão paraíba pernambuco nordeste pernambuco página principal caruaru e região petrolina e região piauí rio grande do norte sergipe norte seu estado norte acre amapá amazonas pará norte pará página principal santarém e região rondônia roraima tocantins sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região sul seu estado sul paraná rio grande do sul santa catarina",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região",
+        "status": null,
+        "previsao": null
+      }
+    ],
+    "probabilidades": {
+      "rebaixamento": 12.0,
+      "libertadores": 9.0,
+      "sulamericana": 2.0,
+      "campeao": 11.0
+    }
+  }
+}
