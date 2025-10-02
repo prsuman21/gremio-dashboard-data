@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-01T01:15:26.279329Z",
+  "generated_at": "2025-10-02T01:06:01.367645Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,12 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Escalação do Grêmio: Mano tem novos desfalques e retornos contra o Santos",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Veja a previsão do Grêmio para o retorno de Willian",
+        "nome": "Veja também desfalques, arbitragem e outras informações da partida válida pela 26ª rodada do Campeonato Brasileiro; TV Globo, Premiere e getv transmitem ao vivo",
         "status": null,
         "previsao": null
       },
@@ -126,13 +121,18 @@
         "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
         "status": null,
         "previsao": null
+      },
+      {
+        "nome": "grande minas e vales",
+        "status": null,
+        "previsao": null
       }
     ],
     "probabilidades": {
       "rebaixamento": 12.0,
       "libertadores": 9.0,
-      "sulamericana": 2.0,
-      "campeao": 11.0
+      "sulamericana": 3.0,
+      "campeao": 10.0
     }
   }
 }
