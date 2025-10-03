@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T01:06:01.367645Z",
+  "generated_at": "2025-10-03T01:05:51.303735Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,7 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Veja também desfalques, arbitragem e outras informações da partida válida pela 26ª rodada do Campeonato Brasileiro; TV Globo, Premiere e getv transmitem ao vivo",
+        "nome": "Treinador também lembrou lista de desfalques para justificar oscilação do time contra o Santos",
         "status": null,
         "previsao": null
       },
@@ -130,9 +130,9 @@
     ],
     "probabilidades": {
       "rebaixamento": 12.0,
-      "libertadores": 9.0,
+      "libertadores": 10.0,
       "sulamericana": 3.0,
-      "campeao": 10.0
+      "campeao": 11.0
     }
   }
 }
