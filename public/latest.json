@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-03T01:05:51.303735Z",
+  "generated_at": "2025-10-04T01:03:24.207633Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,7 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Treinador também lembrou lista de desfalques para justificar oscilação do time contra o Santos",
+        "nome": "Escalação do Grêmio: com retornos, time está encaminhado para encarar o Bragantino",
         "status": null,
         "previsao": null
       },
@@ -132,7 +132,7 @@
       "rebaixamento": 12.0,
       "libertadores": 10.0,
       "sulamericana": 3.0,
-      "campeao": 11.0
+      "campeao": 10.0
     }
   }
 }
