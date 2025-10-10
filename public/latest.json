@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T01:07:23.199867Z",
+  "generated_at": "2025-10-10T01:07:18.352097Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,6 +83,16 @@
         "previsao": null
       },
       {
+        "nome": "Treino do Grêmio: lesionados encaminham recuperação em dia de trabalho tático",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Torcedor do Manchester United completou um ano sem cortar o cabelo como promessa até que o time inglês vencesse cinco partidas seguidas. Se a moda pega, teríamos alguns cabeludos por aí...",
+        "status": null,
+        "previsao": null
+      },
+      {
         "nome": "Veja como está a recuperação de Tiago Volpi no Grêmio e a previsão de retorno",
         "status": null,
         "previsao": null
@@ -116,23 +126,13 @@
         "nome": "seu estado na tv seu estado centro-oeste seu estado centro-oeste distrito federal goiás mato grosso mato grosso do sul nordeste seu estado nordeste alagoas bahia ceará maranhão paraíba pernambuco nordeste pernambuco página principal caruaru e região petrolina e região piauí rio grande do norte sergipe norte seu estado norte acre amapá amazonas pará norte pará página principal santarém e região rondônia roraima tocantins sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região sul seu estado sul paraná rio grande do sul santa catarina",
         "status": null,
         "previsao": null
-      },
-      {
-        "nome": "sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
-        "status": null,
-        "previsao": null
       }
     ],
     "probabilidades": {
       "rebaixamento": 6.0,
       "libertadores": 15.0,
       "sulamericana": 9.0,
-      "campeao": 12.0
+      "campeao": 11.0
     }
   }
 }
