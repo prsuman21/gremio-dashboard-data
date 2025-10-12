@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-11T01:04:43.562956Z",
+  "generated_at": "2025-10-12T01:10:28.963882Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,12 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Treino do Grêmio: lesionados encaminham recuperação em dia de trabalho tático",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Torcedor do Manchester United completou um ano sem cortar o cabelo como promessa até que o time inglês vencesse cinco partidas seguidas. Se a moda pega, teríamos alguns cabeludos por aí...",
+        "nome": "Público, Amuzu e retorno de lesionados animaram o sábado gremista na Arena",
         "status": null,
         "previsao": null
       },
@@ -126,13 +121,18 @@
         "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
         "status": null,
         "previsao": null
+      },
+      {
+        "nome": "grande minas e vales",
+        "status": null,
+        "previsao": null
       }
     ],
     "probabilidades": {
-      "rebaixamento": 6.0,
+      "rebaixamento": 7.0,
       "libertadores": 15.0,
-      "sulamericana": 10.0,
-      "campeao": 12.0
+      "sulamericana": 9.0,
+      "campeao": 10.0
     }
   }
 }
