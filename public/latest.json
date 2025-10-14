@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T01:12:06.986106Z",
+  "generated_at": "2025-10-14T01:07:20.241202Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,6 +83,11 @@
         "previsao": null
       },
       {
+        "nome": "Cera ou lesão? Estudo mostra que 83% dos atendimentos médicos de goleiros são \"estratégicos\"",
+        "status": null,
+        "previsao": null
+      },
+      {
         "nome": "Público, Amuzu e retorno de lesionados animaram o sábado gremista na Arena",
         "status": null,
         "previsao": null
@@ -119,11 +124,6 @@
       },
       {
         "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "grande minas e vales",
         "status": null,
         "previsao": null
       }
