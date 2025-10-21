@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T01:13:40.840921Z",
+  "generated_at": "2025-10-21T01:10:52.403531Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -15,7 +15,7 @@
     "ultimos_jogos": [],
     "tabela": {
       "posicao": null,
-      "pontos": 42,
+      "pontos": 41,
       "j": null,
       "v": null,
       "e": null,
@@ -83,27 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Relacionados: Bahia tem o retorno de cinco jogadores em lista para enfrentar o Grêmio",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Veja também desfalques, arbitragem e outras informações do jogo válido pela 29ª rodada do Brasileirão",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Arthur é novo desfalque do Grêmio contra o Bahia; veja relacionados",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Escalação do Bahia contra o Grêmio: veja time provável, dúvidas e desfalques após o treino",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Rogério Ceni tem o retorno de três titulares para a partida",
+        "nome": "Grêmio deve ter retorno de lesionados, mas Marcos Rocha será avaliado para encarar o Juventude",
         "status": null,
         "previsao": null
       },
@@ -126,12 +106,32 @@
         "nome": "na tv menu ge na tv tv globo na tv tv globo globo esporte esporte espetacular segue o jogo verão espetacular sportv na tv sportv página principal programas sportv programas bem, amigos! boleiragem grande círculo hello la redação sportv seleção sportv sportv news tá na área troca de passes programação combate na tv combate assista agora programação assine premiere seu estado na tv seu estado centro-oeste seu estado centro-oeste distrito federal goiás mato grosso mato grosso do sul nordeste seu estado nordeste alagoas bahia ceará maranhão paraíba pernambuco nordeste pernambuco página principal caruaru e região petrolina e região piauí rio grande do norte sergipe norte seu estado norte acre amapá amazonas pará norte pará página principal santarém e região rondônia roraima tocantins sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região sul seu estado sul paraná rio grande do sul santa catarina princípios editoriais",
         "status": null,
         "previsao": null
+      },
+      {
+        "nome": "seu estado na tv seu estado centro-oeste seu estado centro-oeste distrito federal goiás mato grosso mato grosso do sul nordeste seu estado nordeste alagoas bahia ceará maranhão paraíba pernambuco nordeste pernambuco página principal caruaru e região petrolina e região piauí rio grande do norte sergipe norte seu estado norte acre amapá amazonas pará norte pará página principal santarém e região rondônia roraima tocantins sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região sul seu estado sul paraná rio grande do sul santa catarina",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "sudeste seu estado sudeste espírito santo minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste rio de janeiro sudeste rio de janeiro página principal serra, lagos e norte sul e costa verde são paulo sudeste são paulo página principal bauru, itapetininga, rio preto e sorocaba campinas e região presidente prudente  e região mogi e suzano ribeirão preto e região santos e região vale do paraíba e região",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "grande minas e vales",
+        "status": null,
+        "previsao": null
       }
     ],
     "probabilidades": {
       "rebaixamento": 11.0,
-      "libertadores": 11.0,
-      "sulamericana": 4.0,
+      "libertadores": 12.0,
+      "sulamericana": 5.0,
       "campeao": 8.0
     }
   }
