@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T01:10:52.403531Z",
+  "generated_at": "2025-10-22T01:11:55.309322Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,6 +83,11 @@
         "previsao": null
       },
       {
+        "nome": "Grêmio confirma dois desfalques por lesões; veja o tempo previsto de recuperação",
+        "status": null,
+        "previsao": null
+      },
+      {
         "nome": "Grêmio deve ter retorno de lesionados, mas Marcos Rocha será avaliado para encarar o Juventude",
         "status": null,
         "previsao": null
@@ -119,11 +124,6 @@
       },
       {
         "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "grande minas e vales",
         "status": null,
         "previsao": null
       }
