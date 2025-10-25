@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T01:06:25.400742Z",
+  "generated_at": "2025-10-25T01:07:53.938704Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -83,7 +83,12 @@
         "previsao": null
       },
       {
-        "nome": "Grêmio confirma dois desfalques por lesões; veja o tempo previsto de recuperação",
+        "nome": "Obra escrita por Eduardo Barroca e Roberto Maleson revela segredos e dilemas do dia a dia de trabalho de uma comissão técnica na elite do futebol brasileiro. Veja trechos exclusivos",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "Tricolor terá três retornos no time titular para o jogo com o Juventude, no domingo, na Arena",
         "status": null,
         "previsao": null
       },
@@ -121,18 +126,13 @@
         "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
         "status": null,
         "previsao": null
-      },
-      {
-        "nome": "grande minas e vales",
-        "status": null,
-        "previsao": null
       }
     ],
     "probabilidades": {
-      "rebaixamento": 11.0,
-      "libertadores": 10.0,
-      "sulamericana": 5.0,
-      "campeao": 8.0
+      "rebaixamento": null,
+      "libertadores": null,
+      "sulamericana": null,
+      "campeao": null
     }
   }
 }
