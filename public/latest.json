@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T01:14:45.094669Z",
+  "generated_at": "2025-10-27T01:15:54.145751Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -15,7 +15,7 @@
     "ultimos_jogos": [],
     "tabela": {
       "posicao": null,
-      "pontos": null,
+      "pontos": 43,
       "j": null,
       "v": null,
       "e": null,
@@ -83,7 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Obra escrita por Eduardo Barroca e Roberto Maleson revela segredos e dilemas do dia a dia de trabalho de uma comissão técnica na elite do futebol brasileiro. Veja trechos exclusivos",
+        "nome": "Veja também desfalques, arbitragem e outras informações do jogo pela 30ª rodada do Brasileirão",
         "status": null,
         "previsao": null
       },
@@ -129,9 +129,9 @@
       }
     ],
     "probabilidades": {
-      "rebaixamento": 10.0,
+      "rebaixamento": 11.0,
       "libertadores": 11.0,
-      "sulamericana": 6.0,
+      "sulamericana": 4.0,
       "campeao": 8.0
     }
   }
