@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-29T01:13:36.424369Z",
+  "generated_at": "2025-10-30T01:14:03.302590Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -15,7 +15,7 @@
     "ultimos_jogos": [],
     "tabela": {
       "posicao": null,
-      "pontos": 43,
+      "pontos": null,
       "j": null,
       "v": null,
       "e": null,
@@ -83,12 +83,7 @@
         "previsao": null
       },
       {
-        "nome": "Eduardo Barroca e Roberto Maleson lançam livro \"Modelo de Trabalho\" no Maracanã",
-        "status": null,
-        "previsao": null
-      },
-      {
-        "nome": "Volante tem sido destaque do Grêmio desde o retorno e tem sete partidas, todas como titular",
+        "nome": "Diretor de futebol, técnico e companheiro de time comentam sobre a retomada do atacante ganês após adaptação e lesões",
         "status": null,
         "previsao": null
       },
@@ -124,6 +119,11 @@
       },
       {
         "nome": "minas gerais sudeste minas gerais página principal grande minas e vales sul de minas triângulo e alto paranaíba zona da mata e centro-oeste",
+        "status": null,
+        "previsao": null
+      },
+      {
+        "nome": "grande minas e vales",
         "status": null,
         "previsao": null
       }
