@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T01:14:03.302590Z",
+  "generated_at": "2025-10-31T01:10:53.738395Z",
   "sources": {
     "ufmg_rebaixamento": "https://www.mat.ufmg.br/futebol/rebaixamento_seriea/",
     "ufmg_libertadores": "https://www.mat.ufmg.br/futebol/classificacao-para-libertadores_seriea/",
@@ -15,7 +15,7 @@
     "ultimos_jogos": [],
     "tabela": {
       "posicao": null,
-      "pontos": null,
+      "pontos": 43,
       "j": null,
       "v": null,
       "e": null,
